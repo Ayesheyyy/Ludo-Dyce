@@ -1,6 +1,6 @@
 # labinspo
 
-A new Flutter project.
+Create a random number by clicking on it just like a ludo dice.
 
 ## Getting Started
 
